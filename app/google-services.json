@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157592761572",
+    "firebase_url": "https://fir-authentication-app-5500f.firebaseio.com",
+    "project_id": "fir-authentication-app-5500f",
+    "storage_bucket": "fir-authentication-app-5500f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157592761572:android:b196c640bf72fbfb9d28f1",
+        "android_client_info": {
+          "package_name": "com.tabhi.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157592761572-euin2q5s7minlrk8slhkk9odl35csaep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iFtVfVIBbxcizss5QaxwBRAJzqunJec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157592761572-euin2q5s7minlrk8slhkk9odl35csaep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
